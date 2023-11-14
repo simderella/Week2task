@@ -1,0 +1,14 @@
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\bin\Debug\net6.0\spartagame.exe
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\bin\Debug\net6.0\spartagame.deps.json
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\bin\Debug\net6.0\spartagame.runtimeconfig.json
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\bin\Debug\net6.0\spartagame.dll
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\bin\Debug\net6.0\spartagame.pdb
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.AssemblyInfoInputs.cache
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.AssemblyInfo.cs
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.csproj.CoreCompileInputs.cache
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.dll
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\refint\spartagame.dll
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.pdb
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\spartagame.genruntimeconfig.cache
+C:\Users\tytyt\OneDrive\바탕 화면\Sparta\spartagame\spartagame\obj\Debug\net6.0\ref\spartagame.dll

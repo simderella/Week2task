@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\Week2task\\spartagame.csproj": {}
+    "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\spartagame\\spartagame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\Week2task\\spartagame.csproj": {
+    "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\spartagame\\spartagame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\Week2task\\spartagame.csproj",
+        "projectUniqueName": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\spartagame\\spartagame.csproj",
         "projectName": "spartagame",
-        "projectPath": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\Week2task\\spartagame.csproj",
+        "projectPath": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\spartagame\\spartagame.csproj",
         "packagesPath": "C:\\Users\\tytyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\Week2task\\obj\\",
+        "outputPath": "C:\\Users\\tytyt\\OneDrive\\바탕 화면\\Sparta\\spartagame\\spartagame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tytyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
